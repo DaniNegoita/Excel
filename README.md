@@ -10,5 +10,5 @@ Checked for duplicates, removed missing cases and irrelevant information
 
 -- Analysis--
 
-Descriptive using visual representations (bar charts, trendlines), drop-down list combined with the Vlookup function, dynamic banners.
+Descriptive using visual representations (bar charts, trendlines), drop-down list combined with the Vlookup function, dynamic banners built upon pivot tables.
 
