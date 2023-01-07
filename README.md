@@ -7,6 +7,7 @@ Workflow steps
 -- Preparation --
 
 Checked for duplicates, removed missing cases and irrelevant columns. 
+
 Generated "Drop outs in %" column by dividing the number of drop outs by the total of entrants and "Days" column by substracting "Start Date" from "End Date"
 
 -- Analysis--
